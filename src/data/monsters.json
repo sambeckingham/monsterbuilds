@@ -1,0 +1,486 @@
+{ 
+  "monsters": [
+    {
+      "id": 1,
+      "name": "Spectral Wolf",
+      "skillTrees": [
+        {
+          "rows": [
+            {
+              "tier": 0,
+              "skillIds": [4]
+            },
+            {
+              "tier": 1,
+              "skillIds": [317, 4, 518]
+            },
+            {
+              "tier": 2,
+              "skillIds": [374, 4, 38, 495]
+            },
+            {
+              "tier": 3,
+              "skillIds": [545, 4, 38, 306]
+            },
+            {
+              "tier": 4,
+              "skillIds": [460, 4, 38, 561]
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "tier": 0,
+              "skillIds": [86]
+            },
+            {
+              "tier": 1,
+              "skillIds": [514, 86, 470]
+            },
+            {
+              "tier": 2,
+              "skillIds": [460, 86, 45, 469]
+            },
+            {
+              "tier": 3,
+              "skillIds": [459, 44, 86, 45, 392]
+            },
+            {
+              "tier": 4,
+              "skillIds": [381, 44, 86, 45, 374]
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "tier": 0,
+              "skillIds": [43]
+            },
+            {
+              "tier": 1,
+              "skillIds": [370, 43, 503]
+            },
+            {
+              "tier": 2,
+              "skillIds": [439, 43, 46, 415]
+            },
+            {
+              "tier": 3,
+              "skillIds": [503, 43, 46, 586]
+            },
+            {
+              "tier": 4,
+              "skillIds": [530, 43, 46, 388]
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "tier": 0,
+              "skillIds": [16]
+            },
+            {
+              "tier": 1,
+              "skillIds": [497, 16, 239]
+            },
+            {
+              "tier": 2,
+              "skillIds": [495, 16, 225, 376]
+            },
+            {
+              "tier": 3,
+              "skillIds": [383, 16, 225, 477]
+            },
+            {
+              "tier": 4,
+              "skillIds": [317, 16, 225, 480]
+            }
+          ]
+        }
+      ],
+      "ultimateSkillIds": [197, 173, 148]
+    },
+    {
+      "id": 2,
+      "name": "Spectral Toad",
+      "skillTrees": [
+        {
+          "rows": [
+            {
+              "tier": 0,
+              "skillIds": [1]
+            },
+            {
+              "tier": 1,
+              "skillIds": [6, 1, 8]
+            },
+            {
+              "tier": 2,
+              "skillIds": [6, 1, 9, 8]
+            },
+            {
+              "tier": 3,
+              "skillIds": [11, 1, 9, 8]
+            },
+            {
+              "tier": 4,
+              "skillIds": [11, 1, 9, 8]
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "tier": 0,
+              "skillIds": [2, 3]
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "tier": 0,
+              "skillIds": [4]
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "tier": 0,
+              "skillIds": [5]
+            }
+          ]
+        }
+      ],
+      "ultimateSkillIds": [173, 173, 173]
+    },
+    {
+      "id": 3,
+      "name": "Spectral Eagle",
+      "skillTrees": [
+        {
+          "rows": [
+            {
+              "tier": 0,
+              "skillIds": [4]
+            },
+            {
+              "tier": 1,
+              "skillIds": [8, 4, 2]
+            },
+            {
+              "tier": 2,
+              "skillIds": [6, 1, 9, 8]
+            },
+            {
+              "tier": 3,
+              "skillIds": [11, 1, 9, 8]
+            },
+            {
+              "tier": 4,
+              "skillIds": [11, 1, 9, 8]
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "tier": 0,
+              "skillIds": [4]
+            },
+            {
+              "tier": 1,
+              "skillIds": [8, 4, 2]
+            },
+            {
+              "tier": 2,
+              "skillIds": [6, 1, 9, 8]
+            },
+            {
+              "tier": 3,
+              "skillIds": [11, 1, 9, 8]
+            },
+            {
+              "tier": 4,
+              "skillIds": [11, 1, 9, 8]
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "tier": 0,
+              "skillIds": [4]
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "tier": 0,
+              "skillIds": [5]
+            }
+          ]
+        }
+      ],
+      "ultimateSkillIds": [173, 173, 173]
+    },
+    {
+      "id": 4,
+      "name": "Spectral Lion",
+      "skillTrees": [
+        {
+          "rows": [
+            {
+              "tier": 0,
+              "skillIds": [4]
+            },
+            {
+              "tier": 1,
+              "skillIds": [8, 4, 2]
+            },
+            {
+              "tier": 2,
+              "skillIds": [6, 1, 9, 8]
+            },
+            {
+              "tier": 3,
+              "skillIds": [11, 1, 9, 8]
+            },
+            {
+              "tier": 4,
+              "skillIds": [11, 1, 9, 8]
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "tier": 0,
+              "skillIds": [4]
+            },
+            {
+              "tier": 1,
+              "skillIds": [8, 4, 2]
+            },
+            {
+              "tier": 2,
+              "skillIds": [6, 1, 9, 8]
+            },
+            {
+              "tier": 3,
+              "skillIds": [11, 1, 9, 8]
+            },
+            {
+              "tier": 4,
+              "skillIds": [11, 1, 9, 8]
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "tier": 0,
+              "skillIds": [4]
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "tier": 0,
+              "skillIds": [5]
+            }
+          ]
+        }
+      ],
+      "ultimateSkillIds": [173, 173, 173]
+    },
+    {
+      "id": 5,
+      "name": "Blob",
+      "skillTrees": [
+        {
+          "rows": [
+            {
+              "tier": 0,
+              "skillIds": [1]
+            },
+            {
+              "tier": 1,
+              "skillIds": [6, 1, 8]
+            },
+            {
+              "tier": 2,
+              "skillIds": [6, 1, 9, 8]
+            },
+            {
+              "tier": 3,
+              "skillIds": [11, 1, 9, 8]
+            },
+            {
+              "tier": 4,
+              "skillIds": [11, 1, 9, 8]
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "tier": 0,
+              "skillIds": [2, 3]
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "tier": 0,
+              "skillIds": [4]
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "tier": 0,
+              "skillIds": [5]
+            }
+          ]
+        }
+      ],
+      "ultimateSkillIds": [173, 173, 173]
+    },
+    {
+      "id": 9,
+      "name": "Catzerker",
+      "skillTrees": [
+        {
+          "rows": [
+            {
+              "tier": 0,
+              "skillIds": [1]
+            },
+            {
+              "tier": 1,
+              "skillIds": [2, 1, 7]
+            },
+            {
+              "tier": 2,
+              "skillIds": [2, 1, 9, 8]
+            },
+            {
+              "tier": 3,
+              "skillIds": [11, 1, 9, 8]
+            },
+            {
+              "tier": 4,
+              "skillIds": [11, 1, 9, 8]
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "tier": 0,
+              "skillIds": [1]
+            },
+            {
+              "tier": 1,
+              "skillIds": [6, 1, 8]
+            },
+            {
+              "tier": 2,
+              "skillIds": [6, 1, 9, 8]
+            },
+            {
+              "tier": 3,
+              "skillIds": [11, 1, 9, 8]
+            },
+            {
+              "tier": 4,
+              "skillIds": [11, 1, 9, 8]
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "tier": 0,
+              "skillIds": [1]
+            },
+            {
+              "tier": 1,
+              "skillIds": [6, 1, 8]
+            },
+            {
+              "tier": 2,
+              "skillIds": [6, 1, 8]
+            },
+            {
+              "tier": 3,
+              "skillIds": [11, 1, 8]
+            },
+            {
+              "tier": 4,
+              "skillIds": [11, 1, 8]
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "tier": 0,
+              "skillIds": [1]
+            },
+            {
+              "tier": 1,
+              "skillIds": [6, 1, 8]
+            },
+            {
+              "tier": 2,
+              "skillIds": [6, 1, 8]
+            },
+            {
+              "tier": 3,
+              "skillIds": [11, 1, 8]
+            },
+            {
+              "tier": 4,
+              "skillIds": [11, 1, 8]
+            }
+          ]
+        },
+        {
+          "rows": [
+            {
+              "tier": 0,
+              "skillIds": [1]
+            },
+            {
+              "tier": 1,
+              "skillIds": [6, 1, 8]
+            },
+            {
+              "tier": 2,
+              "skillIds": [6, 1, 8]
+            },
+            {
+              "tier": 3,
+              "skillIds": [11, 1, 8]
+            },
+            {
+              "tier": 4,
+              "skillIds": [11, 1, 8]
+            }
+          ]
+        }
+      ],
+      "ultimateSkillIds": [173, 173, 173]
+    }
+  ]
+}
